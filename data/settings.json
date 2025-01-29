@@ -1,0 +1,7 @@
+{
+    "taskConfig": {
+      "allowedExtensions": ["png", "jpg", "jpeg"],
+      "debugOutputPath": "./data/debug-images/"
+    }
+  }
+  

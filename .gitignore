@@ -1,0 +1,6 @@
+# Ignore node and env
+node_modules/
+.env
+
+# Ignore Google Vision API Key
+utils/vision-key.json
