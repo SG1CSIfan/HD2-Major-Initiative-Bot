@@ -1,5 +1,6 @@
 {
     "taskConfig": {
+      "minDifficultyLevel": 7,
       "allowedExtensions": ["png", "jpg", "jpeg"],
       "debugOutputPath": "./data/debug-images/"
     }

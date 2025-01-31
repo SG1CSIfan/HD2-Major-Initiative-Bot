@@ -1,0 +1,1648 @@
+[2025-01-31 10:48:18] [INFO] Event loaded: interactionCreate
+[2025-01-31 10:48:18] [INFO] Removing all guild commands...
+[2025-01-31 10:48:18] [ERROR] ❌ Error cleaning up commands: Invalid Form Body
+application_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
+guild_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
+[2025-01-31 10:48:18] [ERROR] ERROR: Missing required environment variables. Check your .env file.
+[2025-01-31 10:48:22] [INFO] Command loaded: analyze
+[2025-01-31 10:48:22] [INFO] Command loaded: test
+[2025-01-31 10:49:20] [INFO] Event loaded: interactionCreate
+[2025-01-31 10:51:15] [INFO] Event loaded: interactionCreate
+[2025-01-31 10:52:59] [INFO] Event loaded: interactionCreate
+[2025-01-31 10:53:00] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 10:53:00] [INFO] Removing all guild commands...
+[2025-01-31 10:53:00] [ERROR] ❌ Error cleaning up commands: Invalid Form Body
+application_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
+guild_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
+[2025-01-31 10:54:26] [INFO] Event loaded: interactionCreate
+[2025-01-31 10:54:26] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 10:54:26] [INFO] Removing all guild commands...
+[2025-01-31 10:54:26] [ERROR] ❌ Error cleaning up commands: Invalid Form Body
+application_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
+guild_id[NUMBER_TYPE_COERCE]: Value "undefined" is not snowflake.
+[2025-01-31 10:59:26] [INFO] Event loaded: interactionCreate
+[2025-01-31 10:59:27] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 10:59:27] [INFO] Removing all guild commands...
+[2025-01-31 10:59:27] [INFO] ✅ All commands removed.
+[2025-01-31 10:59:28] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 10:59:28] [INFO] ✅ Preparing to register command: test
+[2025-01-31 10:59:28] [INFO] 🚀 Registering guild commands...
+[2025-01-31 10:59:28] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 10:59:28] [INFO] Command loaded: analyze
+[2025-01-31 10:59:28] [INFO] Command loaded: test
+[2025-01-31 10:59:50] [INFO] Event loaded: interactionCreate
+[2025-01-31 10:59:51] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 10:59:51] [INFO] Removing all guild commands...
+[2025-01-31 11:00:27] [INFO] ✅ All commands removed.
+[2025-01-31 11:00:28] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:00:28] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:00:28] [INFO] 🚀 Registering guild commands...
+[2025-01-31 11:00:28] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:01:41] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:01:42] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:01:42] [INFO] Removing all guild commands...
+[2025-01-31 11:01:42] [INFO] ✅ All commands removed.
+[2025-01-31 11:01:43] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:01:43] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:01:43] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:01:43] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:01:43] [INFO] Command loaded: analyze
+[2025-01-31 11:01:43] [INFO] Command loaded: test
+[2025-01-31 11:01:43] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:02:13] [INFO] Received interaction: analyze
+[2025-01-31 11:02:13] [INFO] Executing command: analyze
+[2025-01-31 11:02:14] [ERROR] Error analyzing image for sg1csifan: response.buffer is not a function
+[2025-01-31 11:18:03] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:18:04] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:18:04] [INFO] Removing all guild commands...
+[2025-01-31 11:18:04] [INFO] ✅ All commands removed.
+[2025-01-31 11:18:05] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:18:05] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:18:05] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:18:05] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:18:05] [INFO] Command loaded: analyze
+[2025-01-31 11:18:05] [INFO] Command loaded: test
+[2025-01-31 11:18:05] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:18:30] [INFO] Received interaction: analyze
+[2025-01-31 11:18:30] [INFO] Executing command: analyze
+[2025-01-31 11:18:32] [INFO] Analysis completed for sg1csifan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 11:29:15] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:29:16] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:29:16] [INFO] Removing all guild commands...
+[2025-01-31 11:29:16] [INFO] ✅ All commands removed.
+[2025-01-31 11:29:17] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:29:17] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:29:17] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:29:18] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:29:18] [INFO] Command loaded: analyze
+[2025-01-31 11:29:18] [INFO] Command loaded: test
+[2025-01-31 11:29:18] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:30:05] [INFO] Received interaction: analyze
+[2025-01-31 11:30:05] [INFO] Executing command: analyze
+[2025-01-31 11:30:05] [INFO] User sg1csifan ran command analyze - Image ID: SG_Bot_Testing-sg1csifan-1
+[2025-01-31 11:30:06] [ERROR] ❌ Error analyzing image: Cannot create property 'Symbol(level)' on string '🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33'
+[2025-01-31 11:30:07] [INFO] Analysis completed for sg1csifan: Error analyzing image.
+[2025-01-31 11:32:02] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:32:02] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:32:02] [INFO] Removing all guild commands...
+[2025-01-31 11:32:02] [INFO] ✅ All commands removed.
+[2025-01-31 11:32:03] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:32:03] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:32:03] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:32:03] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:32:03] [INFO] Command loaded: analyze
+[2025-01-31 11:32:03] [INFO] Command loaded: test
+[2025-01-31 11:32:03] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:32:15] [INFO] Received interaction: analyze
+[2025-01-31 11:32:15] [INFO] Executing command: analyze
+[2025-01-31 11:32:15] [INFO] User sg1csifan ran command analyze - Image ID: SG_Bot_Testing-sg1csifan-1
+[2025-01-31 11:32:16] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 11:32:18] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 11:32:18] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 11:32:18] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 11:32:18] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 11:32:18] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 11:32:18] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 11:32:18] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 11:32:18] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 11:32:18] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 11:32:18] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 11:32:18] [INFO] Debug image saved with color detection marks: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\data\debug-images\debug-output.png
+[2025-01-31 11:32:18] [INFO] Analysis completed for sg1csifan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 11:34:21] [INFO] Received interaction: analyze
+[2025-01-31 11:34:21] [INFO] Executing command: analyze
+[2025-01-31 11:34:21] [INFO] User sg1csifan ran command analyze - Image ID: SG_Bot_Testing-sg1csifan-2
+[2025-01-31 11:34:21] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 11:34:21] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 11:34:21] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 11:34:21] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 11:34:21] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 11:34:21] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 11:34:21] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 11:34:21] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 11:34:21] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 11:34:21] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 11:34:21] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 11:34:22] [INFO] Debug image saved with color detection marks: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\data\debug-images\debug-output.png
+[2025-01-31 11:34:22] [INFO] Analysis completed for sg1csifan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 11:36:15] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:36:15] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:36:15] [INFO] Removing all guild commands...
+[2025-01-31 11:36:15] [INFO] ✅ All commands removed.
+[2025-01-31 11:36:16] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:36:16] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:36:16] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:36:17] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:36:17] [INFO] Command loaded: analyze
+[2025-01-31 11:36:17] [INFO] Command loaded: test
+[2025-01-31 11:36:17] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:36:29] [INFO] Received interaction: analyze
+[2025-01-31 11:36:29] [INFO] Executing command: analyze
+[2025-01-31 11:36:29] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 11:36:30] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 11:36:32] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 11:36:32] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 11:36:32] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 11:36:32] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 11:36:32] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 11:36:32] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 11:36:32] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 11:36:32] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 11:36:32] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 11:36:32] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 11:36:32] [INFO] Debug image saved with color detection marks: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\data\debug-images\debug-output.png
+[2025-01-31 11:36:32] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 11:39:37] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:39:38] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:39:38] [INFO] Removing all guild commands...
+[2025-01-31 11:39:38] [INFO] ✅ All commands removed.
+[2025-01-31 11:39:39] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:39:39] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:39:39] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:39:39] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:39:39] [INFO] Command loaded: analyze
+[2025-01-31 11:39:39] [INFO] Command loaded: test
+[2025-01-31 11:39:39] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:42:05] [INFO] Received interaction: analyze
+[2025-01-31 11:42:05] [INFO] Executing command: analyze
+[2025-01-31 11:42:06] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 11:42:06] [ERROR] Error analyzing image for [ X ] SG1CSIfan: generateDebugImage is not a function
+[2025-01-31 11:44:12] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:44:12] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:44:12] [INFO] Removing all guild commands...
+[2025-01-31 11:44:12] [INFO] ✅ All commands removed.
+[2025-01-31 11:44:13] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:44:13] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:44:13] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:44:13] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:44:13] [INFO] Command loaded: analyze
+[2025-01-31 11:44:13] [INFO] Command loaded: test
+[2025-01-31 11:44:13] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:44:28] [INFO] Received interaction: analyze
+[2025-01-31 11:44:28] [INFO] Executing command: analyze
+[2025-01-31 11:44:29] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 11:44:31] [ERROR] Error analyzing image for [ X ] SG1CSIfan: annotations.forEach is not a function
+[2025-01-31 11:45:52] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:45:52] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:45:52] [INFO] Removing all guild commands...
+[2025-01-31 11:45:53] [INFO] ✅ All commands removed.
+[2025-01-31 11:45:53] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:45:53] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:45:53] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:45:54] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:45:54] [INFO] Command loaded: analyze
+[2025-01-31 11:45:54] [INFO] Command loaded: test
+[2025-01-31 11:45:54] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:46:11] [INFO] Received interaction: analyze
+[2025-01-31 11:46:11] [INFO] Executing command: analyze
+[2025-01-31 11:46:11] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 11:46:12] [WARN] No annotations found for image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 11:46:13] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 11:46:13] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 11:46:13] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 11:46:13] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 11:46:13] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 11:46:13] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 11:46:13] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 11:46:13] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 11:46:13] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 11:46:13] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 11:46:13] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 11:46:13] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334927652443787429/1334927722656305244/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e4fd2&is=679cfe52&hm=d54889371303ca246eae65daac52f6add4f3c9e9787714c0a30609674b200e06&
+[2025-01-31 11:46:13] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 11:46:22] [INFO] Received interaction: analyze
+[2025-01-31 11:46:22] [INFO] Executing command: analyze
+[2025-01-31 11:46:22] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-2
+[2025-01-31 11:46:23] [WARN] No annotations found for image ID: SG_Bot_Testing-[ X ] SG1CSIfan-2
+[2025-01-31 11:46:23] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 11:46:23] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 11:46:23] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 11:46:23] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 11:46:23] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 11:46:23] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 11:46:23] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 11:46:23] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 11:46:23] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 11:46:23] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 11:46:23] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 11:46:23] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334927652443787429/1334927769485836360/hq720.png?ex=679e4fde&is=679cfe5e&hm=2222795b8a9057233f679cbd5d4661a415017e25c2dbafb8dfce3603e84774e0&
+[2025-01-31 11:46:23] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 11:46:31] [INFO] Received interaction: analyze
+[2025-01-31 11:46:31] [INFO] Executing command: analyze
+[2025-01-31 11:46:31] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-3
+[2025-01-31 11:46:31] [WARN] No annotations found for image ID: SG_Bot_Testing-[ X ] SG1CSIfan-3
+[2025-01-31 11:46:32] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 11:46:32] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 11:46:32] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 11:46:32] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 11:46:32] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 11:46:32] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 11:46:32] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 11:46:32] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 11:46:32] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 11:46:32] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 11:46:32] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 11:46:32] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334927652443787429/1334927807368925205/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e4fe7&is=679cfe67&hm=78a77e2d93d3922fc8504b9efc5ff4d815cf9a71406a020fc506448fc9c8d453&
+[2025-01-31 11:46:33] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 11:52:56] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:52:56] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:52:56] [INFO] Removing all guild commands...
+[2025-01-31 11:52:56] [INFO] ✅ All commands removed.
+[2025-01-31 11:52:57] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:52:57] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:52:57] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:52:57] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:52:57] [INFO] Command loaded: analyze
+[2025-01-31 11:52:57] [INFO] Command loaded: test
+[2025-01-31 11:52:57] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:53:09] [INFO] Received interaction: analyze
+[2025-01-31 11:53:09] [INFO] Executing command: analyze
+[2025-01-31 11:53:09] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 11:53:11] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 11:53:12] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 11:53:12] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 11:53:12] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 11:53:12] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 11:53:12] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 11:53:12] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 11:53:12] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 11:53:12] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 11:53:12] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 11:53:12] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 11:53:12] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334929430102937773/1334929476051537940/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e5174&is=679cfff4&hm=c69e5b66a6f3428b4d9d2f5c21c81b52a2308f8d7903818fb7f7d3fbf6816f84&
+[2025-01-31 11:53:12] [ERROR] Debug image not found: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 11:53:12] [INFO] Generated annotated debug image for SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 11:53:12] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 11:59:12] [INFO] Event loaded: interactionCreate
+[2025-01-31 11:59:13] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 11:59:13] [INFO] Removing all guild commands...
+[2025-01-31 11:59:13] [INFO] ✅ All commands removed.
+[2025-01-31 11:59:14] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 11:59:14] [INFO] ✅ Preparing to register command: test
+[2025-01-31 11:59:14] [INFO] ✅ Registering guild commands...
+[2025-01-31 11:59:14] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 11:59:14] [INFO] Command loaded: analyze
+[2025-01-31 11:59:14] [INFO] Command loaded: test
+[2025-01-31 11:59:14] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 11:59:29] [INFO] Received interaction: analyze
+[2025-01-31 11:59:29] [INFO] Executing command: analyze
+[2025-01-31 11:59:29] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 11:59:30] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 11:59:31] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 11:59:31] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 11:59:31] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 11:59:31] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 11:59:31] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 11:59:31] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 11:59:31] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 11:59:31] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 11:59:31] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 11:59:31] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 11:59:31] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334931009929609402/1334931068943601686/hq720.png?ex=679e52f0&is=679d0170&hm=ee28c10401df394c10e3edf28868bc414508ae9ba6980c889940c24a62dc5b49&
+[2025-01-31 11:59:31] [WARN] No annotations found for image ID: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 11:59:31] [INFO] ✅ Generated annotated debug image: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 11:59:31] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 12:02:15] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:02:16] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:02:16] [INFO] Removing all guild commands...
+[2025-01-31 12:02:16] [INFO] ✅ All commands removed.
+[2025-01-31 12:02:17] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:02:17] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:02:17] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:02:17] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:02:17] [INFO] Command loaded: analyze
+[2025-01-31 12:02:17] [INFO] Command loaded: test
+[2025-01-31 12:02:17] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:06:03] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:06:03] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:06:03] [INFO] Removing all guild commands...
+[2025-01-31 12:06:04] [INFO] ✅ All commands removed.
+[2025-01-31 12:06:04] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:06:04] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:06:04] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:06:05] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:06:05] [INFO] Command loaded: analyze
+[2025-01-31 12:06:05] [INFO] Command loaded: test
+[2025-01-31 12:06:05] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:06:19] [INFO] Received interaction: analyze
+[2025-01-31 12:06:19] [INFO] Executing command: analyze
+[2025-01-31 12:06:19] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:06:20] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 12:06:21] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:06:21] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:06:21] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:06:21] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:06:21] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:06:21] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 12:06:21] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:06:21] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 12:06:21] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:06:21] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 12:06:21] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334932732215558154/1334932788524220506/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e548a&is=679d030a&hm=757bd132cfebad8118c6f52c1f9dfc23b28181c02b62e606b9c82452d83ae89c&
+[2025-01-31 12:06:21] [WARN] ⚠️ No annotations found, skipping debug image for SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:06:21] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 12:14:50] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:14:50] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:14:50] [INFO] Removing all guild commands...
+[2025-01-31 12:14:51] [INFO] ✅ All commands removed.
+[2025-01-31 12:14:51] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:14:51] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:14:51] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:14:52] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:14:52] [INFO] Command loaded: analyze
+[2025-01-31 12:14:52] [INFO] Command loaded: test
+[2025-01-31 12:14:52] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:15:04] [INFO] Received interaction: analyze
+[2025-01-31 12:15:04] [INFO] Executing command: analyze
+[2025-01-31 12:15:04] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:15:05] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 12:15:06] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 12:15:06] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 12:15:06] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 12:15:06] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:15:06] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 12:15:06] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 12:15:06] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 12:15:06] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 12:15:06] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 12:15:06] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 12:15:06] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334934942056058902/1334934989728518265/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e5697&is=679d0517&hm=92f18f5d976836baf4d9026eff57ff60b5085ab8ac02d99e863906d80ccba42e&
+[2025-01-31 12:15:06] [WARN] ⚠️ No annotations found, skipping debug image for SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:15:07] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 12:17:03] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:17:03] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:17:03] [INFO] Removing all guild commands...
+[2025-01-31 12:17:03] [INFO] ✅ All commands removed.
+[2025-01-31 12:17:04] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:17:04] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:17:04] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:17:05] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:17:05] [INFO] Command loaded: analyze
+[2025-01-31 12:17:05] [INFO] Command loaded: test
+[2025-01-31 12:17:05] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:17:16] [INFO] Received interaction: analyze
+[2025-01-31 12:17:16] [INFO] Executing command: analyze
+[2025-01-31 12:17:16] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:17:17] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 12:17:19] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 12:17:19] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 12:17:19] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 12:17:19] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:17:19] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 12:17:19] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 12:17:19] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 12:17:19] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 12:17:19] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 12:17:19] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 12:17:19] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334935499776983125/1334935545461080164/hq720.png?ex=679e571b&is=679d059b&hm=ecc8e8cad0ddd74afee63f496e9d3e117e3ea6a183bcad8f7b9ebeead9752247&
+[2025-01-31 12:17:19] [WARN] ⚠️ No annotations found, skipping debug image for SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:17:19] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 12:20:04] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:20:04] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:20:04] [INFO] Removing all guild commands...
+[2025-01-31 12:20:04] [INFO] ✅ All commands removed.
+[2025-01-31 12:20:05] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:20:05] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:20:05] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:20:05] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:20:05] [INFO] Command loaded: analyze
+[2025-01-31 12:20:05] [INFO] Command loaded: test
+[2025-01-31 12:20:05] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:20:14] [INFO] Received interaction: analyze
+[2025-01-31 12:20:14] [INFO] Executing command: analyze
+[2025-01-31 12:20:14] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:20:15] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 12:20:16] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:20:16] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:20:16] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:20:16] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:20:16] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:20:16] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 12:20:16] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:20:16] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 12:20:16] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:20:16] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 12:20:16] [ERROR] Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334936258442432543/1334936289690255422/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e57cd&is=679d064d&hm=d405a08ec0bf5bf22096d653233fd6d71e78f357523a6179526188321875c9c5&
+[2025-01-31 12:20:16] [WARN] ⚠️ No annotations found, skipping debug image for SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:20:16] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 12:24:06] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:24:07] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:24:07] [INFO] Removing all guild commands...
+[2025-01-31 12:24:07] [INFO] ✅ All commands removed.
+[2025-01-31 12:24:08] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:24:08] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:24:08] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:24:08] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:24:08] [INFO] Command loaded: analyze
+[2025-01-31 12:24:08] [INFO] Command loaded: test
+[2025-01-31 12:24:08] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:24:30] [INFO] Received interaction: analyze
+[2025-01-31 12:24:30] [INFO] Executing command: analyze
+[2025-01-31 12:24:30] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:24:31] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 12:24:32] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:24:32] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:24:32] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:24:32] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:24:32] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:24:32] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 12:24:32] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:24:32] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 12:24:32] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:24:32] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 12:24:32] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334937276232503421/1334937365927563285/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e58cd&is=679d074d&hm=3b0f44e2957a7483bfe8e577ad43f499f3aeff8c1a254113f20bf7d56aef62dd&
+[2025-01-31 12:24:32] [WARN] ⚠️ No annotations found, skipping debug image for SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:24:33] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 12:26:56] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:26:56] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:26:56] [INFO] Removing all guild commands...
+[2025-01-31 12:26:56] [INFO] ✅ All commands removed.
+[2025-01-31 12:26:57] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:26:57] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:26:57] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:26:58] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:26:58] [INFO] Command loaded: analyze
+[2025-01-31 12:26:58] [INFO] Command loaded: test
+[2025-01-31 12:26:58] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:27:10] [INFO] Received interaction: analyze
+[2025-01-31 12:27:10] [INFO] Executing command: analyze
+[2025-01-31 12:27:11] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:27:12] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 12:27:13] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 12:27:13] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 12:27:13] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 12:27:13] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:27:13] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 12:27:13] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 12:27:13] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 12:27:13] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 12:27:13] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 12:27:13] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 12:27:13] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334937986898591875/1334938037276381306/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e596e&is=679d07ee&hm=e775a08d9a9ce6a1d861ecfac23a9243fb2941ce1f96e11eac7fefdc7b2afa43&
+[2025-01-31 12:27:13] [WARN] ⚠️ No annotations found, skipping debug image for SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:27:13] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 12:28:35] [INFO] Received interaction: analyze
+[2025-01-31 12:28:35] [INFO] Executing command: analyze
+[2025-01-31 12:28:35] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-2
+[2025-01-31 12:28:36] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 12:28:36] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 12:28:36] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 12:28:36] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 12:28:36] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:28:36] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 12:28:36] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 12:28:36] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 12:28:36] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 12:28:36] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 12:28:36] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 12:28:36] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334937986898591875/1334938393741889576/hq720.png?ex=679e59c3&is=679d0843&hm=edc4bcd799a0c909e78cb0b9edcb7a9118ed8f840f35f024ff83b1bf3a446a27&
+[2025-01-31 12:28:36] [WARN] ⚠️ No annotations found, skipping debug image for SG_Bot_Testing-[ X ] SG1CSIfan-2
+[2025-01-31 12:28:36] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 12:30:41] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:30:42] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:30:42] [INFO] Removing all guild commands...
+[2025-01-31 12:30:42] [INFO] ✅ All commands removed.
+[2025-01-31 12:30:43] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:30:43] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:30:43] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:30:43] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:30:43] [INFO] Command loaded: analyze
+[2025-01-31 12:30:43] [INFO] Command loaded: test
+[2025-01-31 12:30:43] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:31:02] [INFO] Received interaction: analyze
+[2025-01-31 12:31:02] [INFO] Executing command: analyze
+[2025-01-31 12:31:03] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:31:03] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 12:31:05] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 12:31:05] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 12:31:05] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 12:31:05] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:31:05] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 12:31:05] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 12:31:05] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 12:31:05] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 12:31:05] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 12:31:05] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 12:31:05] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334938934672756829/1334939011126399049/hq720.png?ex=679e5a56&is=679d08d6&hm=c30cdd711a2b3ee1252cd182d048972dd4ac2525bef7080eb39e4ec99224bbb8&
+[2025-01-31 12:31:05] [WARN] ⚠️ No annotations found, skipping debug image for SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:31:05] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 12:35:41] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:35:42] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:35:42] [INFO] Removing all guild commands...
+[2025-01-31 12:35:42] [INFO] ✅ All commands removed.
+[2025-01-31 12:35:43] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:35:43] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:35:43] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:35:44] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:35:44] [INFO] Command loaded: analyze
+[2025-01-31 12:35:44] [INFO] Command loaded: test
+[2025-01-31 12:35:44] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:35:59] [INFO] Received interaction: analyze
+[2025-01-31 12:35:59] [INFO] Executing command: analyze
+[2025-01-31 12:35:59] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:36:00] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 12:36:02] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 12:36:02] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 12:36:02] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 12:36:02] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:36:02] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 12:36:02] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 12:36:02] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 12:36:02] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 12:36:02] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 12:36:02] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 12:36:02] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334940194167721995/1334940254943182868/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e5b7e&is=679d09fe&hm=91677ab803d57e86e98b2bc6bb15d888ebd8058432ce0d5e9d7a9f00d11b9210&
+[2025-01-31 12:36:02] [ERROR] Error analyzing image for [ X ] SG1CSIfan: filePath is not defined
+[2025-01-31 12:37:46] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:37:46] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:37:46] [INFO] Removing all guild commands...
+[2025-01-31 12:37:46] [INFO] ✅ All commands removed.
+[2025-01-31 12:37:47] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:37:47] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:37:47] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:37:47] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:37:47] [INFO] Command loaded: analyze
+[2025-01-31 12:37:47] [INFO] Command loaded: test
+[2025-01-31 12:37:47] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:37:54] [INFO] Received interaction: analyze
+[2025-01-31 12:37:54] [INFO] Executing command: analyze
+[2025-01-31 12:37:54] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:37:55] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 12:37:55] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:37:55] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:37:55] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:37:55] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:37:55] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:37:55] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 12:37:55] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:37:55] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 12:37:55] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:37:55] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 12:37:55] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334940712587890751/1334940736663060561/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e5bf1&is=679d0a71&hm=2cec01bdf53e7257659831aeb2884d78650e5c53e18f72d2aad317e4a2b5651a&
+[2025-01-31 12:37:56] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\data\debug-images\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 12:37:56] [INFO] ✅ Generated annotated debug image: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 12:37:56] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 12:46:19] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:46:20] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:46:20] [INFO] Removing all guild commands...
+[2025-01-31 12:46:20] [INFO] ✅ All commands removed.
+[2025-01-31 12:46:21] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:46:21] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:46:21] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:46:21] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:46:21] [INFO] Command loaded: analyze
+[2025-01-31 12:46:21] [INFO] Command loaded: test
+[2025-01-31 12:46:21] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:46:42] [INFO] Received interaction: analyze
+[2025-01-31 12:46:42] [INFO] Executing command: analyze
+[2025-01-31 12:46:42] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:46:42] [ERROR] Error analyzing image for [ X ] SG1CSIfan: IMAGE_SUBMITTED_DIR is not defined
+[2025-01-31 12:48:56] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:48:57] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:48:57] [INFO] Removing all guild commands...
+[2025-01-31 12:48:57] [INFO] ✅ All commands removed.
+[2025-01-31 12:48:57] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:48:57] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:48:57] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:48:58] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:48:58] [INFO] Command loaded: analyze
+[2025-01-31 12:48:58] [INFO] Command loaded: test
+[2025-01-31 12:48:58] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:49:10] [INFO] Received interaction: analyze
+[2025-01-31 12:49:10] [INFO] Executing command: analyze
+[2025-01-31 12:49:10] [INFO] User [ X ] SG1CSIfan ran command analyze - Image ID: SG_Bot_Testing-[ X ] SG1CSIfan-1
+[2025-01-31 12:49:11] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 12:49:11] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:49:11] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:49:11] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:49:11] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 12:49:11] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 12:49:11] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 12:49:11] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 12:49:11] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 12:49:11] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 12:49:11] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 12:49:11] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334943524029862020/1334943572121747528/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e5e95&is=679d0d15&hm=06860eb02e4a98f3429e3a27c2159dfeadbf4628e2fd2176cd69be0445f200ba&
+[2025-01-31 12:49:11] [ERROR] Error analyzing image for [ X ] SG1CSIfan: submittedFilePath is not defined
+[2025-01-31 12:51:28] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:51:28] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:51:28] [INFO] Removing all guild commands...
+[2025-01-31 12:51:28] [INFO] ✅ All commands removed.
+[2025-01-31 12:51:29] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:51:29] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:51:29] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:51:29] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:51:29] [INFO] Command loaded: analyze
+[2025-01-31 12:51:29] [INFO] Command loaded: test
+[2025-01-31 12:51:29] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:51:39] [INFO] Received interaction: analyze
+[2025-01-31 12:51:39] [INFO] Executing command: analyze
+[2025-01-31 12:51:39] [ERROR] Error analyzing image for [ X ] SG1CSIfan: imageID is not defined
+[2025-01-31 12:53:01] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:53:02] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:53:02] [INFO] Removing all guild commands...
+[2025-01-31 12:53:02] [INFO] ✅ All commands removed.
+[2025-01-31 12:53:03] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:53:03] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:53:03] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:53:04] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:53:04] [INFO] Command loaded: analyze
+[2025-01-31 12:53:04] [INFO] Command loaded: test
+[2025-01-31 12:53:04] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 12:53:14] [INFO] Received interaction: analyze
+[2025-01-31 12:53:14] [INFO] Executing command: analyze
+[2025-01-31 12:53:15] [ERROR] Error analyzing image for [ X ] SG1CSIfan: imageID is not defined
+[2025-01-31 12:53:23] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:53:23] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:53:23] [INFO] Removing all guild commands...
+[2025-01-31 12:53:31] [INFO] Received interaction: analyze
+[2025-01-31 12:53:31] [ERROR] No commands have been loaded into client.commands.
+[2025-01-31 12:53:48] [INFO] Event loaded: interactionCreate
+[2025-01-31 12:53:49] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 12:53:49] [INFO] Removing all guild commands...
+[2025-01-31 12:53:49] [INFO] ✅ All commands removed.
+[2025-01-31 12:53:49] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 12:53:49] [INFO] ✅ Preparing to register command: test
+[2025-01-31 12:53:49] [INFO] ✅ Registering guild commands...
+[2025-01-31 12:54:33] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 12:54:33] [INFO] Command loaded: analyze
+[2025-01-31 12:54:33] [INFO] Command loaded: test
+[2025-01-31 12:54:33] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:04:24] [INFO] Received interaction: analyze
+[2025-01-31 13:04:24] [INFO] Executing command: analyze
+[2025-01-31 13:04:26] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 13:04:27] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:04:27] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:04:27] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:04:27] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:04:27] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:04:27] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 13:04:27] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:04:27] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 13:04:27] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:04:27] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 13:04:27] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334944928546951198/1334947408664203348/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e6228&is=679d10a8&hm=5cd3e3470d02ee5eceba07249acfbe1396708fbda1617d6e0ee25523d98c6ed6&
+[2025-01-31 13:04:27] [ERROR] ❌ Failed to generate debug image for C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png: outputImagePath is not defined
+[2025-01-31 13:04:27] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:04:27] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 13:06:03] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:06:04] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:06:04] [INFO] Removing all guild commands...
+[2025-01-31 13:06:04] [INFO] ✅ All commands removed.
+[2025-01-31 13:06:05] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:06:05] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:06:05] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:06:05] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:06:05] [INFO] Command loaded: analyze
+[2025-01-31 13:06:05] [INFO] Command loaded: test
+[2025-01-31 13:06:05] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:06:19] [INFO] Received interaction: analyze
+[2025-01-31 13:06:19] [INFO] Executing command: analyze
+[2025-01-31 13:06:21] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 13:06:21] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:06:21] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:06:21] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:06:21] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:06:21] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:06:21] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 13:06:21] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:06:21] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 13:06:21] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:06:21] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 13:06:21] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334947832209342580/1334947891126734968/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e629b&is=679d111b&hm=b5e74f07f7b85e58916b7b95d313eb6d744e66d1666785c1e659035a27ea7bb7&
+[2025-01-31 13:06:22] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:06:22] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:06:23] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 13:07:18] [INFO] Received interaction: analyze
+[2025-01-31 13:07:18] [INFO] Executing command: analyze
+[2025-01-31 13:07:19] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 13:07:19] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:07:19] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:07:19] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:07:19] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:07:19] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:07:19] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 13:07:19] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:07:19] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 13:07:19] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:07:19] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 13:07:19] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334947832209342580/1334948134375391244/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e62d5&is=679d1155&hm=99e832c51e1ce86a4b9e4bf2117590b48aeea085bc241acc6621ba9d752e78ab&
+[2025-01-31 13:07:19] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:07:19] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:07:19] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 13:07:43] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:07:43] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:07:43] [INFO] Removing all guild commands...
+[2025-01-31 13:07:43] [INFO] ✅ All commands removed.
+[2025-01-31 13:07:44] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:07:44] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:07:44] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:07:45] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:07:45] [INFO] Command loaded: analyze
+[2025-01-31 13:07:45] [INFO] Command loaded: test
+[2025-01-31 13:07:45] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:08:02] [INFO] Received interaction: analyze
+[2025-01-31 13:08:02] [INFO] Executing command: analyze
+[2025-01-31 13:08:03] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 13:08:04] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:08:04] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:08:04] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:08:04] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:08:04] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:08:04] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 13:08:04] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:08:04] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 13:08:04] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:08:04] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 13:08:04] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 13:08:17] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:08:18] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:08:18] [INFO] Removing all guild commands...
+[2025-01-31 13:08:18] [INFO] ✅ All commands removed.
+[2025-01-31 13:08:19] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:08:19] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:08:19] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:09:14] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:09:14] [INFO] Command loaded: analyze
+[2025-01-31 13:09:14] [INFO] Command loaded: test
+[2025-01-31 13:09:14] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:10:15] [INFO] Received interaction: analyze
+[2025-01-31 13:10:15] [INFO] Executing command: analyze
+[2025-01-31 13:10:17] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 13:10:17] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:10:17] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:10:17] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:10:17] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:10:17] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:10:17] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 13:10:17] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:10:17] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 13:10:17] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:10:17] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 13:10:17] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334948624605511700/1334948881020092510/hq720.png?ex=679e6387&is=679d1207&hm=062352310ea775d516ae38f206e10ed459a6d81e80184be0ec3b8949ea854de7&
+[2025-01-31 13:10:17] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:10:17] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:10:17] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 13:10:54] [INFO] Received interaction: analyze
+[2025-01-31 13:10:54] [INFO] Executing command: analyze
+[2025-01-31 13:10:56] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 13:10:56] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:10:56] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:10:56] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:10:56] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:10:56] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:10:56] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 13:10:56] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:10:56] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 13:10:56] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:10:56] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 13:10:56] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334948624605511700/1334949044526780506/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e63ae&is=679d122e&hm=9d75f7e6873b1a74f5e095d9f8c5303dcbb1d4d331fccce2dfa8bc535cd3e092&
+[2025-01-31 13:10:56] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:10:56] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:10:56] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 13:16:28] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:16:28] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:16:28] [INFO] Removing all guild commands...
+[2025-01-31 13:16:28] [INFO] ✅ All commands removed.
+[2025-01-31 13:16:29] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:16:29] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:16:29] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:16:30] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:16:30] [INFO] Command loaded: analyze
+[2025-01-31 13:16:30] [INFO] Command loaded: test
+[2025-01-31 13:16:30] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:16:37] [INFO] Received interaction: analyze
+[2025-01-31 13:16:37] [INFO] Executing command: analyze
+[2025-01-31 13:16:38] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 13:16:39] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:16:39] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:16:39] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:16:39] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:16:39] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:16:39] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 13:16:39] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:16:39] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 13:16:39] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:16:39] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 13:16:39] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334950453141831681/1334950480203350082/hq720.png?ex=679e6504&is=679d1384&hm=b4cd23ecc22dba92c3e4631a28aae2100d642437e832b8b60cbdb9c91a8432b3&
+[2025-01-31 13:16:39] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:16:39] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:16:39] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 13:19:42] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:19:43] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:19:43] [INFO] Removing all guild commands...
+[2025-01-31 13:19:43] [INFO] ✅ All commands removed.
+[2025-01-31 13:19:44] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:19:44] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:19:44] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:19:44] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:19:44] [INFO] Command loaded: analyze
+[2025-01-31 13:19:44] [INFO] Command loaded: test
+[2025-01-31 13:19:44] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:19:55] [INFO] Received interaction: analyze
+[2025-01-31 13:19:55] [INFO] Executing command: analyze
+[2025-01-31 13:19:57] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 13:19:57] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:19:57] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:19:57] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:19:57] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:19:57] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:19:57] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 13:19:57] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:19:57] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 13:19:57] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:19:57] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 13:19:57] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334951268136910859/1334951307718430760/hq720.png?ex=679e65c9&is=679d1449&hm=f8bda731267bc1eeead50ec6e32b5af8db1a78c90a1d60babae48889aa3ae593&
+[2025-01-31 13:19:57] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:19:57] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:19:57] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 13:20:12] [INFO] Received interaction: analyze
+[2025-01-31 13:20:12] [INFO] Executing command: analyze
+[2025-01-31 13:20:13] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 13:20:13] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:20:13] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:20:13] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:20:13] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:20:13] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:20:13] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 13:20:13] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:20:13] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 13:20:13] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:20:13] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 13:20:13] [ERROR] ❌ Debug image not found: https://cdn.discordapp.com/ephemeral-attachments/1334951268136910859/1334951382587019327/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e65db&is=679d145b&hm=915c9e7ed907f496fdf5cf129690af44260d7abe8d1d8e0650a547ad40f2f66b&
+[2025-01-31 13:20:14] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:20:14] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:20:14] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 13:21:57] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:21:58] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:21:58] [INFO] Removing all guild commands...
+[2025-01-31 13:21:58] [INFO] ✅ All commands removed.
+[2025-01-31 13:21:59] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:21:59] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:21:59] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:21:59] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:21:59] [INFO] Command loaded: analyze
+[2025-01-31 13:21:59] [INFO] Command loaded: test
+[2025-01-31 13:21:59] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:22:07] [INFO] Received interaction: analyze
+[2025-01-31 13:22:07] [INFO] Executing command: analyze
+[2025-01-31 13:22:08] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 13:22:10] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:22:10] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:22:10] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:22:10] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:22:10] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:22:10] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 13:22:10] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:22:10] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 13:22:10] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:22:10] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 13:22:10] [ERROR] ❌ DEV MODE ON but submitted image missing! Expected at: https://cdn.discordapp.com/ephemeral-attachments/1334951833814171660/1334951865284300943/can-they-uh-fix-the-rescue-mission-so-it-doesnt-keep-v0-86dtqab6kpjc1.png?ex=679e664e&is=679d14ce&hm=d9e66e358b43f47e2044a876ef230258e1f2d3e238393ed0b268bce4feb3522e&
+[2025-01-31 13:22:10] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:22:10] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:22:11] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 13:22:32] [INFO] Received interaction: analyze
+[2025-01-31 13:22:32] [INFO] Executing command: analyze
+[2025-01-31 13:22:34] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 13:22:34] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:22:34] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:22:34] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:22:34] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:22:34] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:22:34] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 13:22:34] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:22:34] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 13:22:34] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:22:34] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 13:22:34] [ERROR] ❌ DEV MODE ON but submitted image missing! Expected at: https://cdn.discordapp.com/ephemeral-attachments/1334951833814171660/1334951970771046510/hq720.png?ex=679e6668&is=679d14e8&hm=28aaba49ecf2b4c535616b7310f2ccdfd950976e22208f7c7428716e806d7317&
+[2025-01-31 13:22:34] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:22:34] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:22:35] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 13:30:22] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:30:24] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:30:24] [INFO] Removing all guild commands...
+[2025-01-31 13:30:24] [INFO] ✅ All commands removed.
+[2025-01-31 13:30:25] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:30:25] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:30:25] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:30:25] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:30:25] [INFO] Command loaded: analyze
+[2025-01-31 13:30:25] [INFO] Command loaded: test
+[2025-01-31 13:30:25] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:30:37] [INFO] Received interaction: analyze
+[2025-01-31 13:30:37] [INFO] Executing command: analyze
+[2025-01-31 13:30:38] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 13:30:40] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:30:40] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:30:40] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:30:40] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:30:40] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:30:40] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 13:30:40] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:30:40] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 13:30:40] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:30:40] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 13:30:40] [ERROR] ❌ DEV MODE ON but submitted image missing! Expected at: https://cdn.discordapp.com/ephemeral-attachments/1334953957952323626/1334954004396118077/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e684c&is=679d16cc&hm=89af89bc5876cacbd2372cf93ad309f856fadfad6ce70a1959677da45a5d73d9&
+[2025-01-31 13:30:40] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:30:40] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:30:41] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 13:33:01] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:33:02] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:33:02] [INFO] Removing all guild commands...
+[2025-01-31 13:33:02] [INFO] ✅ All commands removed.
+[2025-01-31 13:33:03] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:33:03] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:33:03] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:33:03] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:33:03] [INFO] Command loaded: analyze
+[2025-01-31 13:33:03] [INFO] Command loaded: test
+[2025-01-31 13:33:03] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:33:14] [INFO] Received interaction: analyze
+[2025-01-31 13:33:14] [INFO] Executing command: analyze
+[2025-01-31 13:33:15] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 13:33:16] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:33:16] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:33:16] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:33:16] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:33:16] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:33:16] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 13:33:16] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:33:16] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 13:33:16] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:33:16] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 13:33:16] [ERROR] ❌ DEV MODE ON but submitted image missing! Expected at: https://cdn.discordapp.com/ephemeral-attachments/1334954619738259536/1334954662264176773/Screenshot_2025-01-28_at_21-01-34_2944_Live_-_Helldivers_2_-_Farming_Medals_for_Democracy_-_YouTube.png?ex=679e68e9&is=679d1769&hm=2caac700dc2539fbaea77a5947a03d8b318894a40b3d05faf2bac056516ca794&
+[2025-01-31 13:33:16] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:33:16] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:33:17] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 13:38:51] [INFO] Event loaded: interactionCreate
+[2025-01-31 13:38:52] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 13:38:52] [INFO] Removing all guild commands...
+[2025-01-31 13:38:52] [INFO] ✅ All commands removed.
+[2025-01-31 13:38:53] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 13:38:53] [INFO] ✅ Preparing to register command: test
+[2025-01-31 13:38:53] [INFO] ✅ Registering guild commands...
+[2025-01-31 13:38:53] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 13:38:53] [INFO] Command loaded: analyze
+[2025-01-31 13:38:53] [INFO] Command loaded: test
+[2025-01-31 13:38:53] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 13:39:05] [INFO] Received interaction: analyze
+[2025-01-31 13:39:05] [INFO] Executing command: analyze
+[2025-01-31 13:39:06] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 13:39:07] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:39:07] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:39:07] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:39:07] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:39:07] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:39:07] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 13:39:07] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:39:07] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 13:39:07] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:39:07] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 13:39:07] [WARN] ⚠️ No annotations found for image.
+[2025-01-31 13:39:07] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:39:07] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 13:39:07] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 13:39:42] [INFO] Received interaction: analyze
+[2025-01-31 13:39:42] [INFO] Executing command: analyze
+[2025-01-31 13:39:43] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 13:39:43] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:39:43] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:39:43] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:39:43] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:39:43] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 13:39:43] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 13:39:43] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 13:39:43] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 13:39:43] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 13:39:43] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 13:39:43] [WARN] ⚠️ No annotations found for image.
+[2025-01-31 13:39:43] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:39:43] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 13:39:44] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 13:39:59] [INFO] Received interaction: analyze
+[2025-01-31 13:39:59] [INFO] Executing command: analyze
+[2025-01-31 13:40:00] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 13:40:00] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:40:00] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:40:00] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:40:00] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:40:00] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 13:40:00] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 13:40:00] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 13:40:00] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 13:40:00] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 13:40:00] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 13:40:00] [WARN] ⚠️ No annotations found for image.
+[2025-01-31 13:40:00] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-3-debug.png
+[2025-01-31 13:40:00] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-3-debug.png
+[2025-01-31 13:40:00] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 13:40:11] [INFO] Received interaction: analyze
+[2025-01-31 13:40:11] [INFO] Executing command: analyze
+[2025-01-31 13:40:11] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 13:40:11] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:40:11] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:40:11] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:40:11] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 13:40:11] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 13:40:11] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 13:40:11] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 13:40:11] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 13:40:11] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 13:40:11] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 13:40:11] [WARN] ⚠️ No annotations found for image.
+[2025-01-31 13:40:12] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-4-debug.png
+[2025-01-31 13:40:12] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-4-debug.png
+[2025-01-31 13:40:12] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
+[2025-01-31 14:11:53] [INFO] Event loaded: interactionCreate
+[2025-01-31 14:11:53] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 14:11:53] [INFO] Removing all guild commands...
+[2025-01-31 14:11:53] [INFO] ✅ All commands removed.
+[2025-01-31 14:12:34] [INFO] Event loaded: interactionCreate
+[2025-01-31 14:12:35] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 14:12:35] [INFO] Removing all guild commands...
+[2025-01-31 14:12:35] [INFO] ✅ All commands removed.
+[2025-01-31 14:12:36] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 14:12:36] [INFO] ✅ Preparing to register command: test
+[2025-01-31 14:12:36] [INFO] ✅ Registering guild commands...
+[2025-01-31 14:12:36] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 14:12:36] [INFO] Command loaded: analyze
+[2025-01-31 14:12:36] [INFO] Command loaded: test
+[2025-01-31 14:12:36] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 14:12:48] [INFO] Received interaction: analyze
+[2025-01-31 14:12:48] [INFO] Executing command: analyze
+[2025-01-31 14:12:50] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 14:12:50] [INFO] 🎯 Extracted Difficulty Level: 5
+[2025-01-31 14:12:50] [WARN] 🔍 DEV MODE: Allowing submission despite difficulty issue. ⚠️ Submission Rejected: Difficulty level 5 is below the required 7.
+[2025-01-31 14:12:51] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 14:12:51] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 14:12:51] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 14:12:51] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 14:12:51] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 14:12:51] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 14:12:51] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 14:12:51] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 14:12:51] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 14:12:51] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 14:12:51] [INFO] 🎯 Extracted Difficulty Level: 5
+[2025-01-31 14:12:51] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 14:12:51] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 14:12:52] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).

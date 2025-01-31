@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 5
+    },
+    "auditLog": "C:\\Users\\SG1CS\\source\\repos\\HD2-Major-Initiative-Bot\\logs\\.0c6e582e6467ea26e027b1ac81fafd02a1edaf46-audit.json",
+    "files": [
+        {
+            "date": 1738338497989,
+            "name": "C:\\Users\\SG1CS\\source\\repos\\HD2-Major-Initiative-Bot\\logs\\bot-2025-01-31.log",
+            "hash": "4ecdccc2501349e28666c607e419883a99c6d55880de0b3206981e99c5b2cd54"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -2,12 +2,13 @@ const { Client, GatewayIntentBits } = require('discord.js');
 const { loadEvents, loadCommands: loadLocalCommands } = require('./handlers/commandHandler'); // For bot command handling
 const { loadCommands: registerCommands } = require('./handlers/commandRegister'); // For Discord API registration
 const { cleanUpCommands } = require('./handlers/commandRegister');
+const { logger } = require('./utils/logger');
 require('dotenv').config();
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 client.once('ready', async () => {
-  console.log(`Bot logged in as ${client.user.tag}`);
+  logger.info(`Bot logged in as ${client.user.tag}`);
 
   // Step 1: Register Commands with Discord API
   await cleanUpCommands(); // Clear old commands first
@@ -17,11 +18,11 @@ client.once('ready', async () => {
   await loadLocalCommands(client); // Load commands for execution
 
   // Debug: List loaded commands
-  console.log(`Loaded bot commands: ${Array.from(client.commands.keys()).join(', ')}`);
+  logger.info(`Loaded bot commands: ${Array.from(client.commands.keys()).join(', ')}`);
 });
 
 client.on('shutDown', async () => {
-  console.log('Cleaning up before shutting down...');
+  logger.log('Cleaning up before shutting down...');
   await cleanUpCommands();
   client.destroy();
 });
