@@ -1646,3 +1646,113 @@ missions completed bonus
 [2025-01-31 14:12:51] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
 [2025-01-31 14:12:51] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
 [2025-01-31 14:12:52] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 17:05:53] [INFO] Event loaded: interactionCreate
+[2025-01-31 17:05:54] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 17:05:54] [INFO] Removing all guild commands...
+[2025-01-31 17:05:54] [INFO] ✅ All commands removed.
+[2025-01-31 17:05:55] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 17:05:55] [INFO] ✅ Preparing to register command: test
+[2025-01-31 17:05:55] [INFO] ✅ Registering guild commands...
+[2025-01-31 17:05:55] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 17:05:55] [INFO] Command loaded: analyze
+[2025-01-31 17:05:55] [INFO] Command loaded: test
+[2025-01-31 17:05:55] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 17:06:21] [INFO] Received interaction: analyze
+[2025-01-31 17:06:21] [INFO] Executing command: analyze
+[2025-01-31 17:06:22] [INFO] 🔍 Extracted Text: theoldrevenant
+felled to extract
+theoldwarden
+felled to extract
+brae phart
+failed to extract
+mission completed
+operation status
+missions completed bonus
+1st
+o
+2nd
+3rd
+14
+9 00:08:58 theoldrevenant felled to extract theoldwarden felled to extract brae phart failed to extract mission completed operation status missions completed bonus 1st o 2nd 3rd 14 9 00:08:58
+[2025-01-31 17:06:22] [INFO] 🎯 Extracted Difficulty Level (Top-Right): 9
+[2025-01-31 17:06:23] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 17:06:23] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 17:06:23] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 17:06:23] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 17:06:23] [INFO] 🔍 Checking RGB: (58, 84, 62)
+[2025-01-31 17:06:23] [INFO] 🎯 1ST Detected RGB: 58, 84, 62 → Color: green
+[2025-01-31 17:06:23] [INFO] 🔍 Checking RGB: (65, 96, 75)
+[2025-01-31 17:06:23] [INFO] 🎯 2ND Detected RGB: 65, 96, 75 → Color: green
+[2025-01-31 17:06:23] [INFO] 🔍 Checking RGB: (88, 86, 89)
+[2025-01-31 17:06:23] [INFO] 🎯 3RD Detected RGB: 88, 86, 89 → Color: not completed
+[2025-01-31 17:06:23] [INFO] 🎯 Extracted Difficulty Level: 9
+[2025-01-31 17:06:23] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 17:06:23] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-1-debug.png
+[2025-01-31 17:06:23] [INFO] Analysis completed for [ X ] SG1CSIfan: ⚠️ Operation Not Fully Completed: Some missions are pending.
+[2025-01-31 17:06:40] [INFO] Received interaction: analyze
+[2025-01-31 17:06:40] [INFO] Executing command: analyze
+[2025-01-31 17:06:41] [INFO] 🔍 Extracted Text: noff
+failed to extract
+grey fox +
+failed to extract
+hoshi
+failed to extract
+valletta
+failed to extract
+mission failed
+operation status
+a
+missions completed bonus
+1st
+5
+2nd
+3rd
+6
+6 | 00:16:33 noff failed to extract grey fox + failed to extract hoshi failed to extract valletta failed to extract mission failed operation status a missions completed bonus 1st 5 2nd 3rd 6 6 | 00:16:33
+[2025-01-31 17:06:41] [INFO] 🎯 Extracted Difficulty Level (Top-Right): 6
+[2025-01-31 17:06:41] [WARN] 🔍 DEV MODE: Allowing submission despite difficulty issue. ⚠️ Submission Rejected: Difficulty level 6 is below the required 7.
+[2025-01-31 17:06:41] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 17:06:41] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 17:06:41] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 17:06:41] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 17:06:41] [INFO] 🔍 Checking RGB: (39, 61, 38)
+[2025-01-31 17:06:41] [INFO] 🎯 1ST Detected RGB: 39, 61, 38 → Color: green
+[2025-01-31 17:06:41] [INFO] 🔍 Checking RGB: (39, 66, 42)
+[2025-01-31 17:06:41] [INFO] 🎯 2ND Detected RGB: 39, 66, 42 → Color: green
+[2025-01-31 17:06:41] [INFO] 🔍 Checking RGB: (84, 41, 40)
+[2025-01-31 17:06:41] [INFO] 🎯 3RD Detected RGB: 84, 41, 40 → Color: red
+[2025-01-31 17:06:41] [INFO] 🎯 Extracted Difficulty Level: 6
+[2025-01-31 17:06:42] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 17:06:42] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-2-debug.png
+[2025-01-31 17:06:42] [INFO] Analysis completed for [ X ] SG1CSIfan: ❌ Operation Failed: A mission failed (red detected).
+[2025-01-31 17:07:36] [INFO] Received interaction: analyze
+[2025-01-31 17:07:36] [INFO] Executing command: analyze
+[2025-01-31 17:07:37] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 17:07:37] [WARN] ⚠️ No difficulty level detected in the image.
+[2025-01-31 17:07:37] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 17:07:37] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 17:07:37] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 17:07:37] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 17:07:37] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 17:07:37] [INFO] 🎯 1ST Detected RGB: 41, 159, 93 → Color: green
+[2025-01-31 17:07:37] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 17:07:37] [INFO] 🎯 2ND Detected RGB: 34, 176, 99 → Color: green
+[2025-01-31 17:07:37] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 17:07:37] [INFO] 🎯 3RD Detected RGB: 28, 134, 72 → Color: green
+[2025-01-31 17:07:37] [WARN] ⚠️ No difficulty level detected in the image.
+[2025-01-31 17:07:37] [INFO] ✅ Debug image generated: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-3-debug.png
+[2025-01-31 17:07:37] [INFO] ✅ Debug image stored: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\SG_Bot_Testing-[ X ] SG1CSIfan-3-debug.png
+[2025-01-31 17:07:38] [INFO] Analysis completed for [ X ] SG1CSIfan: ✅ Operation Completed: All missions successful (all green detected).
