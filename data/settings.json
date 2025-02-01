@@ -11,5 +11,7 @@
     ],
     "debugOutputPath": "./data/debug-images/"
   },
-  "missionCounter": 34
+  "operationCommandChannelId": "1307155765928394875",
+  "operationResultsChannelId": "1307155765928394875",
+  "missionCounter": 39
 }

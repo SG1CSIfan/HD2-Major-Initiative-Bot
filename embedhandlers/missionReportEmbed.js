@@ -11,14 +11,14 @@ function createMissionReportEmbed({ title, user, date, operation, planet, diffic
   return new EmbedBuilder()
     .setTitle(title)
     .setDescription(
-      `**Submitted By:** ${user}\n**Date Submitted:** <t:${date}:F>\n\n` + // ✅ Discord Timestamp
+      `**Submitted By:** ${user}\n**Date Submitted:**${date}>\n\n` + // ✅ Discord Timestamp
       `**Operation Name:** ${operation}\n` +
       `**Planet:** ${planet}\n` +
       `**${difficulty}**\n` +
       `**Missions:** ${missionCount}`
     )
     .addFields(
-      { name: "Participants", value: participants.join("\n"), inline: false },
+      { name: "Participants", value: participants.length > 0 ? participants.join("\n") : "None", inline: false },
       { name: "Operation Status", value: status, inline: false }
     )
     .setImage(image)
