@@ -3333,3 +3333,44 @@ missions completed bonus
 [2025-01-31 23:46:54] [INFO] ✅ Debug image successfully saved at: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\01312025 23-46-53 - [ [ X ] SG1CSIfan ] - Debug.png
 [2025-01-31 23:46:54] [INFO] [INFO] OCR Result for [ X ] SG1CSIfan:
 [2025-01-31 23:46:54] [ERROR] [ERROR] analyze command failed for sg1csifan: title is not defined
+[2025-01-31 23:47:29] [INFO] Event loaded: interactionCreate
+[2025-01-31 23:47:30] [INFO] Bot logged in as HD2-Dev-Testing#7143
+[2025-01-31 23:47:30] [INFO] Removing all guild commands...
+[2025-01-31 23:47:30] [INFO] ✅ All commands removed.
+[2025-01-31 23:47:31] [INFO] ✅ Preparing to register command: analyze
+[2025-01-31 23:47:31] [INFO] ✅ Preparing to register command: test
+[2025-01-31 23:47:31] [INFO] ✅ Registering guild commands...
+[2025-01-31 23:48:05] [INFO] ✅ Guild commands registered successfully.
+[2025-01-31 23:48:05] [INFO] Command loaded: analyze
+[2025-01-31 23:48:05] [INFO] Command loaded: test
+[2025-01-31 23:48:05] [INFO] Loaded bot commands: analyze, test
+[2025-01-31 23:48:23] [INFO] Received interaction: analyze
+[2025-01-31 23:48:23] [INFO] Executing command: analyze
+[2025-01-31 23:48:23] [INFO] [INFO] Interaction started by sg1csifan
+[2025-01-31 23:48:23] [INFO] [INFO] Assigned Mission Number: 34 for [ X ] SG1CSIfan
+[2025-01-31 23:48:23] [INFO] [INFO] 📝 Raw image saved: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageSubmitted\01312025 23-48-23 - [ [ X ] SG1CSIfan ] - Raw.png
+[2025-01-31 23:48:23] [INFO] 🔍 Extracted Text: mission completed!
+operation status
+a
+a
+missions completed bonus
+1st
+08
+2nd
+11
+3rd
+14 mission completed ! operation status a a missions completed bonus 1st 08 2nd 11 3rd 14
+[2025-01-31 23:48:23] [WARN] ⚠️ No difficulty level detected in the image.
+[2025-01-31 23:48:24] [INFO] 🔍 Checking RGB: (41, 159, 93)
+[2025-01-31 23:48:24] [INFO] 🔍 Checking RGB: (34, 176, 99)
+[2025-01-31 23:48:24] [INFO] 🔍 Checking RGB: (28, 134, 72)
+[2025-01-31 23:48:24] [INFO] 
+🔎 **Debug Analysis Output**:
+[2025-01-31 23:48:24] [INFO] 🎯 1ST → Color: green
+[2025-01-31 23:48:24] [INFO] 🎯 2ND → Color: green
+[2025-01-31 23:48:24] [INFO] 🎯 3RD → Color: green
+[2025-01-31 23:48:24] [INFO] 🎯 Valid OCR mission colors detected for [ X ] SG1CSIfan:
+[2025-01-31 23:48:24] [INFO] 📝 DEV_MODE enabled - Generating debug image: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\01312025 23-48-23 - [ [ X ] SG1CSIfan ] - Debug.png
+[2025-01-31 23:48:24] [INFO] ✅ Debug image successfully saved at: C:\Users\SG1CS\source\repos\HD2-Major-Initiative-Bot\logs\imageDebugOutput\01312025 23-48-23 - [ [ X ] SG1CSIfan ] - Debug.png
+[2025-01-31 23:48:24] [INFO] [INFO] OCR Result for [ X ] SG1CSIfan:
+[2025-01-31 23:48:24] [INFO] [INFO] Embed successfully created for [ X ] SG1CSIfan
