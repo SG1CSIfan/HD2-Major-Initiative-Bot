@@ -1,103 +1,109 @@
-const { logger, IMAGE_DEBUG_DIR, IMAGE_SUBMITTED_DIR } = require('../utils/logger');
-const { analyzeImage, generateDebugImage } = require('../utils/googleVisionHelper');
-const { SlashCommandBuilder } = require('discord.js');
-const fs = require('fs');
-const path = require('path');
-const { v4: uuidv4 } = require('uuid');
-
-const userImageCount = {};
+const fs = require("fs");
+const path = require("path");
+const { SlashCommandBuilder } = require("discord.js");
+const { processMissionImage, getNextMissionNumber } = require("../handlers/analyzeHandler");
+const { createMissionReportEmbed } = require("../embedhandlers/missionReportEmbed");
+const { logger, IMAGE_SUBMITTED_DIR, IMAGE_DEBUG_DIR, getFormattedTimestamp } = require("../utils/logger");
 
 module.exports = {
   data: new SlashCommandBuilder()
-    .setName('analyze')
-    .setDescription('Analyze an uploaded mission image.')
-    .addAttachmentOption(option =>
-      option.setName('image')
-        .setDescription('The image to analyze')
+    .setName("analyze")
+    .setDescription("Analyze an uploaded mission image.")
+    .addAttachmentOption(option => 
+      option.setName("image")
+        .setDescription("Upload the mission image")
         .setRequired(true)
     ),
 
   async execute(interaction) {
     await interaction.deferReply();
-    const user = interaction.member ? interaction.member.displayName : interaction.user.username;
-    const serverName = interaction.guild ? interaction.guild.name.replace(/\s+/g, '_') : 'DM';
-
-    // Increment user image count
-    if (!userImageCount[user]) userImageCount[user] = 1;
-    else userImageCount[user]++;
-
     try {
-      const attachment = interaction.options.getAttachment('image');
-      const extension = attachment.name.split('.').pop().toLowerCase();
+      const settings = JSON.parse(fs.readFileSync("./data/settings.json", "utf8"));
 
-      if (!['png', 'jpg', 'jpeg'].includes(extension)) {
-        logger.info(`Invalid file type submitted by ${user}`);
-        return interaction.editReply('Invalid file type. Only PNG and JPG are allowed.');
+      logger.info(`[INFO] Interaction started by ${interaction.user.tag}`);
+
+      const user = interaction.member ? interaction.member.displayName : interaction.user.username;
+      const image = interaction.options.getAttachment("image");
+
+      if (!["png", "jpg", "jpeg"].includes(image.name.split(".").pop().toLowerCase())) {
+        logger.warn(`[WARN] Invalid file type detected by ${user}`);
+        return await interaction.editReply("Invalid file type. Only PNG and JPG are allowed.");
       }
 
-      // Generate a unique ID for the image
-      const imageID = `${serverName}-${user}-${userImageCount[user]}`;
-      const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
-      const uniqueFilename = `${imageID}-${timestamp}.${extension}`;
-      const submittedFilePath = path.join(IMAGE_SUBMITTED_DIR, uniqueFilename);
+      const missionNumber = getNextMissionNumber();
+      logger.info(`[INFO] Assigned Mission Number: ${missionNumber} for ${user}`);
 
-      if (process.env.DEV_MODE === 'true') {
-        logger.debug(`✅ DEV MODE ON: Storing submitted image.`);
-    
-        try {
-            const response = await fetch(attachment.url);
-            const arrayBuffer = await response.arrayBuffer();
-            const buffer = Buffer.from(arrayBuffer);
-            fs.writeFileSync(submittedFilePath, buffer);
-            logger.debug(`✅ Stored raw submitted image: ${submittedFilePath}`);
-        } catch (error) {
-            logger.error(`❌ Failed to save submitted image: ${error.message}`);
-            return interaction.editReply("Error: Failed to save submitted image.");
+      // Ensure directories exist
+      if (!fs.existsSync(IMAGE_SUBMITTED_DIR)) fs.mkdirSync(IMAGE_SUBMITTED_DIR, { recursive: true });
+      if (!fs.existsSync(IMAGE_DEBUG_DIR)) fs.mkdirSync(IMAGE_DEBUG_DIR, { recursive: true });
+
+      const now = new Date();
+
+      const sanitizedUser = user.replace(/[/\\?%*:|"<>]/g, "").trim();
+
+      const formattedTimestamp = getFormattedTimestamp(); // ✅ EST timestamp for filenames
+      const unixTimestamp = Math.floor(Date.now() / 1000); // ✅ UNIX timestamp for Discord
+
+      const rawImagePath = path.join(IMAGE_SUBMITTED_DIR, `${formattedTimestamp} - [ ${sanitizedUser} ] - Raw.png`);
+      const debugImagePath = path.join(IMAGE_DEBUG_DIR, `${formattedTimestamp} - [ ${sanitizedUser} ] - Debug.png`);
+
+      const discordTimestamp = unixTimestamp;
+
+      logger.debug(`[DEBUG] Raw Image Path: ${rawImagePath}`);
+      logger.debug(`[DEBUG] Debug Image Path: ${debugImagePath}`);
+
+      const response = await fetch(image.url);
+      if (!response.ok) throw new Error(`Failed to download image: ${response.statusText}`);
+
+      const buffer = await response.arrayBuffer();
+      fs.writeFileSync(rawImagePath, Buffer.from(buffer));
+      logger.info(`[INFO] 📝 Raw image saved: ${rawImagePath}`);
+
+      const result = await processMissionImage(rawImagePath, debugImagePath, sanitizedUser);
+
+      logger.info(`[INFO] OCR Result for ${sanitizedUser}:`, result);
+
+      // ✅ Ensure missing difficulty is a failure unless in DEV_MODE
+      let devModeWarning = "";
+      if (process.env.DEV_MODE === "true") {
+        let reasons = [];
+
+        if (result.missingDifficulty) reasons.push("difficulty level is missing");
+        if (result.hasRed) reasons.push("one or more missions failed (red detected)");
+        if (result.hasNotCompleted) reasons.push("some missions were incomplete");
+        if (result.difficulty.includes("Difficulty:") && parseInt(result.difficulty.split(": ")[1]) < settings.taskConfig.minDifficultyLevel) {
+          reasons.push(`difficulty level ${result.difficulty.split(": ")[1]} is below the required ${settings.taskConfig.minDifficultyLevel}`);
+        }
+
+        if (reasons.length > 0) {
+          devModeWarning = `\n\n⚠️ **DEV_MODE is active!** This operation would normally fail for the following reasons:\n- ${reasons.join("\n- ")}`;
         }
       }
 
-      const result = await analyzeImage(submittedFilePath);
-      const rawImagePath = path.join(IMAGE_DEBUG_DIR, `${imageID}.${extension}`);
+      const embed = createMissionReportEmbed({
+        title: `Major Initiative Report - Report #${missionNumber}`, // ✅ Ensure title is passed
+        user: sanitizedUser,
+        date: discordTimestamp,
+        operation: settings.taskConfig.defaultOperation,
+        planet: settings.taskConfig.defaultPlanet,
+        difficulty: result.difficulty,
+        missionCount: result.missionCount,
+        participants: [sanitizedUser],
+        status: result.status + devModeWarning,
+        image: image.url,
+        hasRed: result.hasRed,
+        hasNotCompleted: result.hasNotCompleted
+    });
 
-      if (!result || !result.status) {
-        logger.error(`Analysis result is undefined or malformed for ${user}`);
-        return interaction.editReply("Error: Analysis result is undefined or malformed.");
-      }
+      logger.info(`[INFO] Embed successfully created for ${sanitizedUser}`);
+      await interaction.editReply({ embeds: [embed] });
 
-      // Check if difficulty level is missing or below threshold
-      if (result.difficultyLevel === null) {
-        const msg = "⚠️ No difficulty level detected in the image.";
-        logger.warn(msg);
-        if (process.env.DEV_MODE === 'true') {
-          logger.debug(`🔍 DEV MODE: Allowing submission despite missing difficulty level.`);
-        } else {
-          return interaction.editReply(msg);
-        }
-      } else {
-        logger.info(`🎯 Extracted Difficulty Level: ${result.difficultyLevel}`);
-      }
-
-      if (process.env.DEV_MODE === 'true' && result.debug) {
-        const debugFilename = `${imageID}-debug.png`;
-        const debugFilePath = path.join(IMAGE_DEBUG_DIR, debugFilename);
-    
-        if (!result.debug.annotations || result.debug.annotations.length === 0) {
-          logger.warn(`⚠️ No annotations found, skipping debug image for ${imageID}`);
-        } else {
-          if (fs.existsSync(submittedFilePath)) {
-            await generateDebugImage(submittedFilePath, debugFilePath, result.debug.annotations, result.debug.positions, result.debug.missionColors);
-            logger.info(`✅ Debug image stored: ${debugFilePath}`);
-          } else {
-            logger.error(`❌ Submitted image not found: ${submittedFilePath}`);
-          }
-        }
-      }
-
-      await interaction.editReply(`**${result.message}**\n🎯 **Difficulty Level:** ${result.difficultyLevel !== null ? result.difficultyLevel : "Not Detected"}`);
-      logger.info(`Analysis completed for ${user}: ${result.message}`);
     } catch (error) {
-      logger.error(`Error analyzing image for ${user}: ${error.message}`);
-      await interaction.editReply('An error occurred while processing your request.');
+      logger.error(`[ERROR] analyze command failed for ${interaction.user.tag}:`, error);
+      if (interaction.deferred || interaction.replied) {
+        return await interaction.editReply("An error occurred while processing your request.");
+      }
+      await interaction.reply("There was an error while executing this command.");
     }
   },
 };

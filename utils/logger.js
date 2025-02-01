@@ -1,4 +1,4 @@
-// utils/logger.js - Winston Logging System with Log Rotation
+// utils/logger.js
 const { createLogger, format, transports } = require('winston');
 const path = require('path');
 const fs = require('fs');
@@ -10,15 +10,10 @@ const IMAGE_SUBMITTED_DIR = path.join(LOGS_DIR, 'imageSubmitted');
 const MAX_LOG_DAYS = 5;
 const TIMEZONE = 'America/New_York';
 
-if (!fs.existsSync(LOGS_DIR)) {
-    fs.mkdirSync(LOGS_DIR, { recursive: true });
-}
-if (!fs.existsSync(IMAGE_DEBUG_DIR)) {
-    fs.mkdirSync(IMAGE_DEBUG_DIR, { recursive: true });
-}
-if (!fs.existsSync(IMAGE_SUBMITTED_DIR)) {
-    fs.mkdirSync(IMAGE_SUBMITTED_DIR, { recursive: true });
-}
+// Ensure directories exist
+if (!fs.existsSync(LOGS_DIR)) fs.mkdirSync(LOGS_DIR, { recursive: true });
+if (!fs.existsSync(IMAGE_DEBUG_DIR)) fs.mkdirSync(IMAGE_DEBUG_DIR, { recursive: true });
+if (!fs.existsSync(IMAGE_SUBMITTED_DIR)) fs.mkdirSync(IMAGE_SUBMITTED_DIR, { recursive: true });
 
 const transport = new transports.DailyRotateFile({
     filename: path.join(LOGS_DIR, 'bot-%DATE%.log'),
@@ -41,4 +36,13 @@ const logger = createLogger({
     ]
 });
 
-module.exports = { logger, IMAGE_DEBUG_DIR, IMAGE_SUBMITTED_DIR };
+// 🟢 Helper function to get a properly formatted timestamp in EST
+function getFormattedTimestamp() {
+    const now = new Date().toLocaleString("en-US", { timeZone: "America/New_York" });
+    const date = new Date(now);
+
+    return `${String(date.getMonth() + 1).padStart(2, '0')}${String(date.getDate()).padStart(2, '0')}${date.getFullYear()} ` + 
+           `${String(date.getHours()).padStart(2, '0')}-${String(date.getMinutes()).padStart(2, '0')}-${String(date.getSeconds()).padStart(2, '0')}`;
+}
+
+module.exports = { logger, IMAGE_DEBUG_DIR, IMAGE_SUBMITTED_DIR, getFormattedTimestamp };

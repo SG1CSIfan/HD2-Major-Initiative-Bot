@@ -1,7 +1,9 @@
 # Ignore node and env
 node_modules/
 .env
+logs/
 
 # Ignore Google Vision API Key
 utils/vision-key.json
 logs/bot-2025-01-31.log
+logs/

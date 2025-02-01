@@ -1,8 +1,15 @@
 {
-    "taskConfig": {
-      "minDifficultyLevel": 7,
-      "allowedExtensions": ["png", "jpg", "jpeg"],
-      "debugOutputPath": "./data/debug-images/"
-    }
-  }
-  
+  "taskConfig": {
+    "defaultPlanet": "Test Planet",
+    "defaultOperation": "M.I. Test",
+    "defaultDifficulty": "Not Detected",
+    "minDifficultyLevel": 7,
+    "allowedExtensions": [
+      "png",
+      "jpg",
+      "jpeg"
+    ],
+    "debugOutputPath": "./data/debug-images/"
+  },
+  "missionCounter": 34
+}
